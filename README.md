@@ -4,7 +4,7 @@ entando-core
 ```entando-core``` is the heart of the **Entando Platform**. 
 It provides the basic structure, tools, and functionality to build an instance of the Entando application.
 
-**Entando** is the lightest, open source Digital Experience Platform (DXP) for Modern Applications. Entando harmonizes customer experience across the omnichannel (UX convergence) applying the techniques of modern software practices to enterprise applications (modern applications). Entando can be used to modernize UI/UX layers on top of existing applications or to build new generation applications aligned to UI/UX best practices, across different industries and use cases.
+**Entando** is the leading micro frontend platform for building enterprise web applications on Kubernetes. With Entando, you can use custom blueprints to create micro frontends and microservices and assemble them into a Kubernetes-native application. We provide a modern development stack, taking best practices and leading edge tools and integrating them onto one open source platform, empowering you to rapidly create innovative user experiences. 
 
 ```entando-core```is composed of the three following main core components:
 
